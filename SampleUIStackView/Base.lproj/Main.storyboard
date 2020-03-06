@@ -62,7 +62,7 @@
                                                     <constraint firstAttribute="trailing" secondItem="YaW-78-kGn" secondAttribute="trailing" id="z3D-PQ-eGx"/>
                                                 </constraints>
                                             </view>
-                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4SF-ca-Ydh" userLabel="StartBGView">
+                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4SF-ca-Ydh" userLabel="StarBGView">
                                                 <rect key="frame" x="0.0" y="108" width="374" height="75"/>
                                                 <subviews>
                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="star_fill" translatesAutoresizingMaskIntoConstraints="NO" id="0zA-K5-Pnm" userLabel="Star1">
@@ -110,17 +110,12 @@
                                                     <constraint firstItem="pQ4-KH-2t7" firstAttribute="width" secondItem="qEA-KW-01H" secondAttribute="width" id="JxQ-wk-d3U"/>
                                                     <constraint firstItem="0zA-K5-Pnm" firstAttribute="leading" secondItem="4SF-ca-Ydh" secondAttribute="leading" id="MTA-xK-rgz"/>
                                                     <constraint firstItem="0zA-K5-Pnm" firstAttribute="width" secondItem="4SF-ca-Ydh" secondAttribute="width" multiplier="0.2" id="RQZ-4E-OCs"/>
-                                                    <constraint firstItem="qEA-KW-01H" firstAttribute="width" secondItem="qEA-KW-01H" secondAttribute="height" multiplier="1:1" id="Ytt-12-w39"/>
-                                                    <constraint firstItem="U7M-tK-dRa" firstAttribute="width" secondItem="U7M-tK-dRa" secondAttribute="height" multiplier="1:1" id="ab1-HB-kMo"/>
                                                     <constraint firstItem="pQ4-KH-2t7" firstAttribute="leading" secondItem="qEA-KW-01H" secondAttribute="trailing" id="cew-jr-OP2"/>
-                                                    <constraint firstItem="7sq-ZR-DcK" firstAttribute="width" secondItem="7sq-ZR-DcK" secondAttribute="height" multiplier="1:1" id="dcu-cu-59D"/>
                                                     <constraint firstAttribute="trailing" secondItem="U7M-tK-dRa" secondAttribute="trailing" id="e63-Tr-FkT"/>
                                                     <constraint firstItem="0zA-K5-Pnm" firstAttribute="top" secondItem="4SF-ca-Ydh" secondAttribute="top" id="g9O-F8-wd3"/>
-                                                    <constraint firstItem="U7M-tK-dRa" firstAttribute="width" secondItem="U7M-tK-dRa" secondAttribute="height" multiplier="1:1" id="j7Q-f1-IfL"/>
                                                     <constraint firstItem="7sq-ZR-DcK" firstAttribute="width" secondItem="0zA-K5-Pnm" secondAttribute="width" id="nJQ-eH-Udw"/>
                                                     <constraint firstItem="U7M-tK-dRa" firstAttribute="top" secondItem="4SF-ca-Ydh" secondAttribute="top" id="nhV-4n-ODa"/>
                                                     <constraint firstItem="pQ4-KH-2t7" firstAttribute="top" secondItem="4SF-ca-Ydh" secondAttribute="top" id="pMt-Ib-ybD"/>
-                                                    <constraint firstItem="pQ4-KH-2t7" firstAttribute="width" secondItem="pQ4-KH-2t7" secondAttribute="height" multiplier="1:1" id="zVI-h2-oQs"/>
                                                 </constraints>
                                             </view>
                                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CXO-bD-pga">
