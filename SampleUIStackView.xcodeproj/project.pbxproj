@@ -14,7 +14,6 @@
 		B66B57422411343F00A9D565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B66B57402411343F00A9D565 /* LaunchScreen.storyboard */; };
 		B66B574D2411344000A9D565 /* SampleUIStackViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66B574C2411344000A9D565 /* SampleUIStackViewTests.swift */; };
 		B66B57582411344000A9D565 /* SampleUIStackViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66B57572411344000A9D565 /* SampleUIStackViewUITests.swift */; };
-		B66B576624116F5000A9D565 /* StackViewStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B66B576524116F5000A9D565 /* StackViewStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +47,6 @@
 		B66B57532411344000A9D565 /* SampleUIStackViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleUIStackViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B66B57572411344000A9D565 /* SampleUIStackViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleUIStackViewUITests.swift; sourceTree = "<group>"; };
 		B66B57592411344000A9D565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B66B576524116F5000A9D565 /* StackViewStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StackViewStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +99,6 @@
 			children = (
 				B66B57352411343E00A9D565 /* AppDelegate.swift */,
 				B66B57392411343E00A9D565 /* ViewController.swift */,
-				B66B576524116F5000A9D565 /* StackViewStoryboard.storyboard */,
 				B66B573B2411343E00A9D565 /* Main.storyboard */,
 				B66B573E2411343F00A9D565 /* Assets.xcassets */,
 				B66B57402411343F00A9D565 /* LaunchScreen.storyboard */,
@@ -235,7 +232,6 @@
 				B66B57422411343F00A9D565 /* LaunchScreen.storyboard in Resources */,
 				B66B573F2411343F00A9D565 /* Assets.xcassets in Resources */,
 				B66B573D2411343E00A9D565 /* Main.storyboard in Resources */,
-				B66B576624116F5000A9D565 /* StackViewStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
